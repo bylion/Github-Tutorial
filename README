@@ -1,0 +1,16 @@
+git config --global user.name "bylion"
+git config --global user.email bylion1990@gmail.com
+
+mkdir Youtube-Git-Tutorial
+cd Youtube-Git-Tutorial
+git init
+touch README
+git add README                            git add .
+git commit -m "first commit"
+git remote add origin git@github.com:bylion/ROS.git    no need to run everytime
+git push origin master                                      will be ask to input username and password
+
+cd Youtube-Git-Tutorial
+git 
+
+
