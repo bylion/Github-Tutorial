@@ -14,3 +14,15 @@ cd Youtube-Git-Tutorial
 git 
 
 
+
+Problem 
+git push origin master
+To git@github.com:bylion/ROS.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:bylion/ROS.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
+
+slove
+ git pull origin master
