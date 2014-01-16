@@ -26,3 +26,11 @@ Merge the remote changes (e.g. 'git pull') before pushing again.  See the
 
 slove
  git pull origin master
+
+
+
+# Clones your fork of the repository into the current directory in terminal
+git clone https://github.com/bylion/Github-Tutorial 
+
+
+more https://help.github.com/articles/fork-a-repo
